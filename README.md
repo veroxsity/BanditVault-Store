@@ -11,7 +11,7 @@ BanditVault Store is an Android app that lets you browse, download, and update B
 
 ### Installation Steps
 
-1. **Download** the APK to your Android device
+1. **Download** the APK to your Android device.
 2. **Enable Unknown Sources**
    - Go to Settings → Security
    - Enable "Install from Unknown Sources" or "Install Unknown Apps"
